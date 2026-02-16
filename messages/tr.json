@@ -52,5 +52,36 @@
         "title": "Kullanım",
         "content": "Uygulamayı yalnızca yasal amaçlar için kullanmayı kabul edersiniz."
     }
+  },
+  "DeleteAccount": {
+    "title": "Hesap Silme Talebi – Farz",
+    "intro": "Farz kullanıcıları hesaplarını ve ilişkili verilerini silme talebinde bulunabilir.",
+    "methods": {
+      "title": "Hesap Silme Yöntemleri",
+      "inApp": {
+        "title": "Uygulama içinden:",
+        "desc": "Ayarlar > Hesabımı Sil bölümünden talep oluşturabilirsiniz."
+      },
+      "email": {
+        "title": "E-posta yoluyla:",
+        "desc": "vatansabri@gmail.com adresine kayıtlı e-posta adresinizle silme talebi gönderebilirsiniz."
+      }
+    },
+    "deletedData": {
+      "title": "Silinen Veriler",
+      "list": [
+        "Hesap bilgileri (e-posta adresi)",
+        "Yedeklenen ibadet verileri",
+        "Kullanıcıya ait tüm profil bilgileri"
+      ]
+    },
+    "retainedData": {
+      "title": "Saklanan Veriler",
+      "desc": "Yasal yükümlülükler gereği anonimleştirilmiş bazı teknik kayıtlar en fazla 30 gün saklanabilir."
+    },
+    "processingTime": {
+      "title": "İşlem Süresi",
+      "desc": "Hesap ve ilişkili veriler en geç 30 gün içinde kalıcı olarak silinir."
+    }
   }
 }

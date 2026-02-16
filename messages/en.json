@@ -52,5 +52,36 @@
         "title": "Usage",
         "content": "You agree to use the app for lawful purposes only."
     }
+  },
+  "DeleteAccount": {
+    "title": "Delete Account Request – Farz",
+    "intro": "Farz users can request the deletion of their accounts and associated data.",
+    "methods": {
+      "title": "Account Deletion Methods",
+      "inApp": {
+        "title": "In-App:",
+        "desc": "You can create a request from Settings > Delete My Account."
+      },
+      "email": {
+        "title": "Via Email:",
+        "desc": "You can send a deletion request with your registered email address to vatansabri@gmail.com."
+      }
+    },
+    "deletedData": {
+      "title": "Deleted Data",
+      "list": [
+        "Account information (email address)",
+        "Backed up worship data",
+        "All profile information belonging to the user"
+      ]
+    },
+    "retainedData": {
+      "title": "Retained Data",
+      "desc": "Certain anonymized technical records may be retained for up to 30 days due to legal obligations."
+    },
+    "processingTime": {
+      "title": "Processing Time",
+      "desc": "Account and associated data will be permanently deleted within 30 days at the latest."
+    }
   }
 }

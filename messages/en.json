@@ -1,0 +1,56 @@
+{
+  "Index": {
+    "title": "Welcome to Farz App"
+  },
+  "Navigation": {
+    "home": "Home",
+    "features": "Features",
+    "download": "Download",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "Hero": {
+    "title": "Track Your Prayers & Fasting",
+    "subtitle": "The easiest way to track your missed prayers (Qaza) and fasting. Plus Qibla finder, Dhikr counter, and Prayer times."
+  },
+  "Features": {
+    "title": "Key Features",
+    "tracking": {
+      "title": "Missed Prayer & Fasting",
+      "desc": "Easily track and manage your missed prayers (Qaza) and fasting days."
+    },
+    "prayerTimes": {
+      "title": "Prayer Times & Reminders",
+      "desc": "Accurate prayer times with Adhan notifications for your location."
+    },
+    "qibla": {
+      "title": "Qibla Finder",
+      "desc": "Find the accurate Qibla direction instantly from anywhere."
+    },
+    "dhikr": {
+      "title": "Dhikr Counter",
+      "desc": "Digital Tasbih to count your daily Dhikr and supplications."
+    }
+  },
+  "Footer": {
+    "rights": "All rights reserved"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated",
+    "intro": "We value your privacy. This policy explains how we collect and use your data.",
+    "section1": {
+        "title": "Data Collection",
+        "content": "We do not collect any personal data. All prayer times and tracking data are stored locally."
+    }
+  },
+  "TermsOfService": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated",
+    "intro": "By using Farz App, you agree to these terms.",
+    "section1": {
+        "title": "Usage",
+        "content": "You agree to use the app for lawful purposes only."
+    }
+  }
+}

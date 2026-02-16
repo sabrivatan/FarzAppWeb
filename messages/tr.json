@@ -1,0 +1,56 @@
+{
+  "Index": {
+    "title": "Farz Uygulamasına Hoşgeldiniz"
+  },
+  "Navigation": {
+    "home": "Anasayfa",
+    "features": "Özellikler",
+    "download": "İndir",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Hizmet Koşulları"
+  },
+  "Hero": {
+    "title": "Kaza Namazı ve Oruç Takibi",
+    "subtitle": "Kaza namazlarınızı ve oruçlarınızı takip etmenin en kolay yolu. Ayrıca Kıble bulucu, Zikirmatik ve Ezan vakti bildirimleri."
+  },
+  "Features": {
+    "title": "Öne Çıkan Özellikler",
+    "tracking": {
+      "title": "Kaza ve Oruç Takibi",
+      "desc": "Kaza namazlarınızı ve tutamadığınız oruçları kolayca kaydedin ve takip edin."
+    },
+    "prayerTimes": {
+      "title": "Ezan Vakti Hatırlatıcı",
+      "desc": "Konumunuza özel hassas namaz vakitleri ve ezan bildirimleri."
+    },
+    "qibla": {
+      "title": "Kıble Bulucu",
+      "desc": "Nerede olursanız olun en doğru Kıble yönünü anında bulun."
+    },
+    "dhikr": {
+      "title": "Zikirmatik",
+      "desc": "Günlük zikirlerinizi ve tesbihatınızı kolayca sayın ve kaydedin."
+    }
+  },
+  "Footer": {
+    "rights": "Tüm hakları saklıdır"
+  },
+  "PrivacyPolicy": {
+    "title": "Gizlilik Politikası",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "Gizliliğinize önem veriyoruz. Bu politika, verilerinizi nasıl topladığımızı ve kullandığımızı açıklar.",
+    "section1": {
+        "title": "Veri Toplama",
+        "content": "Kişisel veri toplamıyoruz. Tüm namaz vakitleri ve takip verileri yerel olarak saklanır."
+    }
+  },
+  "TermsOfService": {
+    "title": "Hizmet Koşulları",
+    "lastUpdated": "Son Güncelleme",
+    "intro": "Farz Uygulamasını kullanarak bu koşulları kabul etmiş olursunuz.",
+    "section1": {
+        "title": "Kullanım",
+        "content": "Uygulamayı yalnızca yasal amaçlar için kullanmayı kabul edersiniz."
+    }
+  }
+}

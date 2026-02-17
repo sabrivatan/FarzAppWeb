@@ -7,18 +7,23 @@ export default function Footer() {
   const tNav = useTranslations('Navigation');
   
   return (
-    <footer className="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 py-12">
-      <div className="max-w-7xl mx-auto px-4 md:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
-        <div className="flex items-center gap-2">
-             <Image src="/logo.png" alt="Farz App Logo" width={32} height={32} className="w-8 h-8 rounded-lg" />
-             <span className="font-bold text-lg">Farz App</span>
-        </div>
-        <div className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Farz App. {t('rights')}.
-        </div>
-        <div className="flex gap-6">
-            <Link href="/privacy-policy" className="text-sm text-gray-600 hover:text-emerald-600 dark:text-gray-400 dark:hover:text-emerald-400">{tNav('privacy')}</Link>
-            <Link href="/terms-of-service" className="text-sm text-gray-600 hover:text-emerald-600 dark:text-gray-400 dark:hover:text-emerald-400">{tNav('terms')}</Link>
+    <footer className="bg-emerald-950 text-white py-12 border-t border-emerald-900">
+      <div className="max-w-7xl mx-auto px-4 md:px-8">
+        <div className="flex flex-col md:flex-row justify-between items-center gap-8">
+            <div className="flex items-center gap-3">
+                <Image src="/logo.png" alt="Farz App" width={48} height={48} className="rounded-xl" />
+                <span className="text-2xl font-bold text-emerald-50">Farz App</span>
+            </div>
+            
+            <div className="flex gap-8 text-emerald-200/80">
+                <Link href="/privacy-policy" className="hover:text-white transition-colors">{tNav('privacy')}</Link>
+                <Link href="/terms-of-service" className="hover:text-white transition-colors">{tNav('terms')}</Link>
+                <Link href="/delete-account" className="hover:text-white transition-colors">{t('deleteAccount')}</Link>
+            </div>
+            
+            <p className="text-emerald-400/60 text-sm">
+                &copy; {new Date().getFullYear()} Farz App. {t('rights')}
+            </p>
         </div>
       </div>
     </footer>

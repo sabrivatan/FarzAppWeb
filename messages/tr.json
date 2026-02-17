@@ -10,47 +10,103 @@
     "terms": "Hizmet Koşulları"
   },
   "Hero": {
-    "title": "Kaza Namazı ve Oruç Takibi",
-    "subtitle": "Kaza namazlarınızı ve oruçlarınızı takip etmenin en kolay yolu. Ayrıca Kıble bulucu, Zikirmatik ve Ezan vakti bildirimleri."
+    "title": "Geçmişini Kapat, Geleceğine Odaklan",
+    "subtitle": "Kaza namazlarını ve oruç borçlarını suçluluk duymadan, motive edici bir şekilde takip etmenin en modern yolu.",
+    "googlePlay": "Google Play'de Keşfet",
+    "appStore": "App Store'dan İndir"
   },
   "Features": {
     "title": "Öne Çıkan Özellikler",
-    "tracking": {
-      "title": "Kaza ve Oruç Takibi",
-      "desc": "Kaza namazlarınızı ve tutamadığınız oruçları kolayca kaydedin ve takip edin."
+    "smartCalculation": {
+      "title": "Akıllı Borç Hesaplama",
+      "desc": "Doğum tarihi ve ergenlik yaşını gir, geçmişe dönük tüm kaza borçlarını otomatik hesaplayalım."
     },
-    "prayerTimes": {
-      "title": "Ezan Vakti Hatırlatıcı",
-      "desc": "Konumunuza özel hassas namaz vakitleri ve ezan bildirimleri."
+    "design": {
+      "title": "Earth Theme Tasarım",
+      "desc": "Göz yormayan, huzurlu zümrüt ve toprak tonlarıyla modern bir arayüz deneyimi."
     },
-    "qibla": {
-      "title": "Kıble Bulucu",
-      "desc": "Nerede olursanız olun en doğru Kıble yönünü anında bulun."
+    "dashboard": {
+      "title": "Motivasyon Panosu",
+      "desc": "Borçlarını bir yük olarak değil, tamamlanacak bir hedef olarak gösteren ilerleme sistemi."
     },
-    "dhikr": {
-      "title": "Zikirmatik",
-      "desc": "Günlük zikirlerinizi ve tesbihatınızı kolayca sayın ve kaydedin."
+    "privacy": {
+      "title": "Offline & Gizli",
+      "desc": "Verilerin sadece telefonunda saklanır. Bulut yok, üyelik zorunluluğu yok, tam gizlilik."
     }
+  },
+  "WhyFarz": {
+    "title": "Neden Farz?",
+    "items": {
+        "allInOne": {
+            "title": "Zengin Özellikler",
+            "desc": "Kıble, Zikirmatik, Ezan Vakti ve Kaza Takibi tek uygulamada."
+        },
+        "modern": {
+            "title": "Modern Arayüz",
+            "desc": "Karmaşık menülerden uzak, sade ve şık tasarım."
+        },
+        "easy": {
+            "title": "Kolay Kullanım",
+            "desc": "Tek dokunuşla kaza namazı ve oruç takibi."
+        }
+    }
+  },
+  "CTA": {
+    "title": "Manevi Yüklerinden Kurtulmaya Başla",
+    "subtitle": "Hemen indir, kaza borçlarını eritmeye başla.",
+    "button": "Uygulamayı İndir"
   },
   "Footer": {
     "rights": "Tüm hakları saklıdır"
   },
   "PrivacyPolicy": {
     "title": "Gizlilik Politikası",
-    "lastUpdated": "Son Güncelleme",
-    "intro": "Gizliliğinize önem veriyoruz. Bu politika, verilerinizi nasıl topladığımızı ve kullandığımızı açıklar.",
+    "lastUpdated": "Son Güncelleme: 18.02.2026",
+    "intro": "Veri gizliliğiniz bizim için temel bir haktır. Farz uygulaması, 'Privacy by Design' (Tasarımda Gizlilik) ilkesiyle geliştirilmiştir.",
     "section1": {
-        "title": "Veri Toplama",
-        "content": "Kişisel veri toplamıyoruz. Tüm namaz vakitleri ve takip verileri yerel olarak saklanır."
+        "title": "1. Veri Sorumlusu ve Kapsam",
+        "content": "Bu gizlilik politikası, Farz mobil uygulaması ve web sitesi ('Hizmet') için geçerlidir. Uygulamamız, herhangi bir üyelik sistemi gerektirmez ve doğrudan kimliğinizi belirleyecek (ad, soyad, T.C. kimlik no vb.) verileri sunucularımızda saklamaz."
+    },
+    "section2": {
+        "title": "2. Toplanan Veriler ve Kullanım Amacı",
+        "content": "Uygulama, işlevlerini yerine getirebilmek için cihazınızda yerel olarak şu verileri işler: \n- **İbadet Kayıtları:** Kaza namazı, oruç ve zikir sayıları.\n- **Konum Bilgisi:** Sadece namaz vakitlerini hesaplamak ve Kıble yönünü bulmak için anlık kullanılır, kaydedilmez.\n- **Tercihler:** Tema, bildirim ve dil ayarları."
+    },
+    "section3": {
+        "title": "3. Veri Güvenliği ve Yerel Depolama",
+        "content": "Tüm hassas verileriniz (ibadet geçmişi vb.) cihazınızın yerel belleğinde (SQLite veritabanı) şifrelenmiş veya güvenli bir şekilde saklanır. Sunucularımıza veya herhangi bir bulut hizmetine otomatik veri aktarımı yapılmaz. Verilerinizin güvenliği, cihazınızın güvenliği ile sınırlıdır."
+    },
+    "section4": {
+        "title": "4. Üçüncü Taraf Hizmetler",
+        "content": "Uygulama iyileştirmeleri için anonimleştirilmiş kullanım istatistikleri (ör: çökme raporları) toplanabilir. Bu veriler kimliğinizle ilişkilendirilemez."
+    },
+    "section5": {
+        "title": "5. İletişim",
+        "content": "Gizlilikle ilgili sorularınız için bizimle iletişime geçebilirsiniz: vatansabri@gmail.com"
     }
   },
   "TermsOfService": {
     "title": "Hizmet Koşulları",
-    "lastUpdated": "Son Güncelleme",
-    "intro": "Farz Uygulamasını kullanarak bu koşulları kabul etmiş olursunuz.",
+    "lastUpdated": "Son Güncelleme: 18.02.2026",
+    "intro": "Farz Uygulamasını indirerek veya kullanarak, bu sözleşmenin tamamını okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan edersiniz.",
     "section1": {
-        "title": "Kullanım",
-        "content": "Uygulamayı yalnızca yasal amaçlar için kullanmayı kabul edersiniz."
+        "title": "1. Hizmetin Niteliği",
+        "content": "Farz, kullanıcılara ibadet takibi, vakit hesaplama ve kıble bulma gibi yardımcı araçlar sunan bir yazılımdır. Uygulamadaki veriler Diyanet İşleri Başkanlığı ve genel kabul görmüş astronomik hesaplamalara dayanır, ancak %100 kesinlik taahhüt edilmez."
+    },
+    "section2": {
+        "title": "2. Kullanıcı Sorumlulukları",
+        "content": "Kullanıcı, uygulamanın ürettiği verileri (kıble yönü, namaz vakti) kendi yerel koşullarına göre doğrulamakla yükümlüdür. Uygulamadaki kaza hesaplamaları bilgilendirme amaçlıdır; dini bir fetva yerine geçmez."
+    },
+    "section3": {
+        "title": "3. Fikri Mülkiyet Hakları",
+        "content": "Uygulamanın tasarımı, logosu, yazılım kodları ve içerikleri telif hakları ile korunmaktadır. İzinsiz kopyalanması, tersine mühendislik yapılması veya ticari amaçla kullanılması yasaktır."
+    },
+     "section4": {
+        "title": "4. Sorumluluk Reddi",
+        "content": "Geliştirici, uygulamanın kullanımı sırasında oluşabilecek veri kayıplarından, cihaz arızalarından veya hesaplama hatalarından doğan manevi/maddi zararlardan sorumlu tutulamaz. Verilerinizi düzenli olarak manuel not etmeniz önerilir."
+    },
+     "section5": {
+        "title": "5. Değişiklikler",
+        "content": "Bu koşullar, uygulama güncellemeleri ile birlikte haber verilmeksizin değiştirilebilir. Uygulamayı kullanmaya devam etmeniz, değişiklikleri kabul ettiğiniz anlamına gelir."
     }
   },
   "DeleteAccount": {

@@ -10,47 +10,103 @@
     "terms": "Terms of Service"
   },
   "Hero": {
-    "title": "Track Your Prayers & Fasting",
-    "subtitle": "The easiest way to track your missed prayers (Qaza) and fasting. Plus Qibla finder, Dhikr counter, and Prayer times."
+    "title": "Close Your Past, Focus on Your Future",
+    "subtitle": "The modern way to track your missed prayers and fasting debts without guilt, with motivation.",
+    "googlePlay": "Get it on Google Play",
+    "appStore": "Download on the App Store"
   },
   "Features": {
     "title": "Key Features",
-    "tracking": {
-      "title": "Missed Prayer & Fasting",
-      "desc": "Easily track and manage your missed prayers (Qaza) and fasting days."
+    "smartCalculation": {
+      "title": "Smart Debt Calculation",
+      "desc": "Enter your birth date and age of puberty, and we'll automatically calculate all your past missed prayers."
     },
-    "prayerTimes": {
-      "title": "Prayer Times & Reminders",
-      "desc": "Accurate prayer times with Adhan notifications for your location."
+    "design": {
+      "title": "Earth Theme Design",
+      "desc": "A modern interface experience with peaceful emerald and earth tones that don't tire the eyes."
     },
-    "qibla": {
-      "title": "Qibla Finder",
-      "desc": "Find the accurate Qibla direction instantly from anywhere."
+    "dashboard": {
+      "title": "Motivation Dashboard",
+      "desc": "A progress system that shows your debts not as a burden, but as a goal to be completed."
     },
-    "dhikr": {
-      "title": "Dhikr Counter",
-      "desc": "Digital Tasbih to count your daily Dhikr and supplications."
+    "privacy": {
+      "title": "Offline & Private",
+      "desc": "Your data is stored only on your phone. No cloud, no membership required, complete privacy."
     }
+  },
+  "WhyFarz": {
+    "title": "Why Farz?",
+    "items": {
+        "allInOne": {
+            "title": "Rich Features",
+            "desc": "Qibla, Dhikr Counter, Prayer Times and Qaza Tracking all in one app."
+        },
+        "modern": {
+            "title": "Modern Interface",
+            "desc": "Simple and stylish design, away from complex menus."
+        },
+        "easy": {
+            "title": "Easy to Use",
+            "desc": "Track missed prayers and fasting with a single touch."
+        }
+    }
+  },
+  "CTA": {
+    "title": "Start Shedding Your Spiritual Burdens",
+    "subtitle": "Download now and start reducing your missed debts.",
+    "button": "Download App"
   },
   "Footer": {
     "rights": "All rights reserved"
   },
   "PrivacyPolicy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated",
-    "intro": "We value your privacy. This policy explains how we collect and use your data.",
+    "lastUpdated": "Last Updated: 18.02.2026",
+    "intro": "Your data privacy is a fundamental right for us. Farz App is developed with the 'Privacy by Design' principle.",
     "section1": {
-        "title": "Data Collection",
-        "content": "We do not collect any personal data. All prayer times and tracking data are stored locally."
+        "title": "1. Data Controller and Scope",
+        "content": "This privacy policy applies to the Farz mobile application and website ('Service'). Our app does not require any membership system and does not store data that would directly identify you (name, surname, ID, etc.) on our servers."
+    },
+    "section2": {
+        "title": "2. Collected Data and Purpose",
+        "content": "To function properly, the app locally processes the following data on your device:\n- **Worship Records:** Missed prayers, fasting, and dhikr counts.\n- **Location Information:** Used instantly only to calculate prayer times and find Qibla direction; not recorded.\n- **Preferences:** Theme, notification, and language settings."
+    },
+    "section3": {
+        "title": "3. Data Security and Local Storage",
+        "content": "All your sensitive data (worship history, etc.) is stored encrypted or securely in your device's local memory (SQLite database). No automatic data transfer is made to our servers or any cloud service. The security of your data is limited to the security of your device."
+    },
+    "section4": {
+        "title": "4. Third-Party Services",
+        "content": "Anonymized usage statistics (e.g., crash reports) may be collected for app improvements. This data cannot be associated with your identity."
+    },
+    "section5": {
+        "title": "5. Contact",
+        "content": "You can contact us for your privacy questions: vatansabri@gmail.com"
     }
   },
   "TermsOfService": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated",
-    "intro": "By using Farz App, you agree to these terms.",
+    "lastUpdated": "Last Updated: 18.02.2026",
+    "intro": "By downloading or using the Farz App, you declare that you have read, understood, and accepted this entire agreement.",
     "section1": {
-        "title": "Usage",
-        "content": "You agree to use the app for lawful purposes only."
+        "title": "1. Nature of Service",
+        "content": "Farz is software offering users helpful tools like worship tracking, time calculation, and Qibla finding. Data in the app is based on religious authority and generally accepted astronomical calculations, but 100% accuracy is not guaranteed."
+    },
+    "section2": {
+        "title": "2. User Responsibilities",
+        "content": "The user is obliged to verify the data produced by the app (Qibla direction, prayer times) according to local conditions. Missed prayer calculations in the app are for informational purposes; they do not substitute for a religious fatwa."
+    },
+    "section3": {
+        "title": "3. Intellectual Property Rights",
+        "content": "The app's design, logo, software codes, and content are protected by copyright. Unauthorized copying, reverse engineering, or commercial use is prohibited."
+    },
+     "section4": {
+        "title": "4. Disclaimer",
+        "content": "The developer cannot be held responsible for spiritual/material damages arising from data loss, device malfunctions, or calculation errors during the use of the app. It is recommended to note your data manually regularly."
+    },
+     "section5": {
+        "title": "5. Changes",
+        "content": "These terms may be changed without notice with app updates. Continuing to use the app means you accept the changes."
     }
   },
   "DeleteAccount": {
